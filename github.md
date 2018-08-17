@@ -687,6 +687,7 @@ Hackathon Hackers' GitHub profiles
 - Ravin Sardal https://github.com/randomite
 - Raymond Chung https://github.com/rchung95
 - Remy Goldschmidt https://github.com/taktoa
+- Ribhav Jain https://ribhavjain.github.io
 - Riccardo Mutschlechner https://github.com/Ricky54326
 - Richard Chu https://github.com/churichard
 - Richard Higgins https://github.com/relh
